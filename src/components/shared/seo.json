@@ -1,7 +1,7 @@
 {
   "collectionName": "components_shared_seos",
   "info": {
-    "displayName": "Seo",
+    "displayName": "seo",
     "description": ""
   },
   "options": {},
@@ -15,7 +15,7 @@
       "maxLength": 110,
       "minLength": 10
     },
-    "shareImage": {
+    "sharedImage": {
       "displayName": "SharedImage",
       "type": "component",
       "repeatable": false,
